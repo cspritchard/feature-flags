@@ -1,4 +1,10 @@
 {
-    "notifications": false,
-    "accessManagement": false
+    "home": true,
+    "cellarScheduler": true,
+    "rpaJobStatus:" true,
+    "consensusBlends": true,
+    "resourceGroups": true,
+    "accessManagement": false,
+    "heartbeat": true,
+    "notifications": false
 }
