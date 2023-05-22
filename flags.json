@@ -7,5 +7,5 @@
     "resourceGroups": true,
     "accessManagement": true,
     "heartbeat": true,
-    "notifications": true
+    "notifications": false
 }
