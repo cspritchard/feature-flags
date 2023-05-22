@@ -1,4 +1,4 @@
 {
     "notifications": false,
-    "accessManagement": true
+    "accessManagement": false
 }
