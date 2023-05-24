@@ -5,7 +5,7 @@
     "rpaJobStatus": true,
     "consensusBlends": true,
     "resourceGroups": true,
-    "accessManagement": false,
+    "accessManagement": true,
     "heartbeat": true,
     "notifications": false
 }
